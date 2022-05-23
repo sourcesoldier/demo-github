@@ -1,0 +1,17 @@
+{
+    "name": "sourcesoldier/demo-github",
+    "description": "Test for Github package",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sourcesoldier\\DemoGithub\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Clemens Queissner",
+            "email": "clemens.queissner@cq-design.de"
+        }
+    ],
+    "require": {}
+}
